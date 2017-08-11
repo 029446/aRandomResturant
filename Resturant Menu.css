@@ -1,0 +1,113 @@
+p {
+  font-family: 'Open Sans', sans-serif;
+  color: black;
+  line-height: 0px;
+}
+
+a {
+    text-decoration: none;
+  }
+
+
+
+
+  h1 {
+    color: Black;
+    font-family: 'Lobster', serif;
+    font-stretch: expanded;
+
+  }
+
+  .List {
+    font-size: 25px;
+    font-family: 'Open Sans', sans-serif;
+    color: Black;
+    line-height: 5px;
+  }
+
+  .Tagline {
+    font-size: 20px;
+    font-family: 'Lobster', sans-serif;
+    color: black;
+    line-height:8px;
+  }
+
+  .Warning {
+    font-size: 18px;
+    font-family: 'Roboto', sans-serif;
+    color: black;
+    line-height:5px;
+  }
+
+  .Ornament {
+    font-family:'Lobster', sans-serif;
+    color: black;
+    line-height: 0px;
+    font-size: 150px;
+  }
+
+  .DscptRight {
+    text-align: right;
+  }
+
+  .DscptLeft {
+    text-align: left;
+  }
+
+  .DscptCenter {
+    text-align: center;
+  }
+
+
+  #Sandwich {
+    background-image: url("http://img.sndimg.com/food/image/upload/v1/img/feed/129615/KZthi3T3qvAvYzGtK5yA_BLTsandwich.jpg");
+    background-size: cover;
+  }
+
+  #Hamburger {
+    background-image: url("https://cdn.daysoftheyear.com/wp-content/images/hamburger-day1-e1432469030785-808x382.jpg");
+    background-size: cover;
+  }
+
+  #Soup {
+    background-image: url("http://www.seriouseats.com/images/2016/10/20161012-kosher-salt.jpg");
+    background-size: cover;
+    text-align: right;
+  }
+
+  #MenuLink {
+    font-family: 'Lobster', sans-serif;
+    color: white;
+    line-height: 50px;
+    font-size: 50px;
+    Background: Black;
+    font-weight: Bold;
+  }
+  #MenuLink:hover {
+    background: lightgrey;
+  }
+
+#LinkMargin-α {
+  height: 25px;
+  background: White;
+}
+
+#LinkMargin-β {
+  height: 100px;
+  background: White;
+}
+
+.Menu {
+  margin-top: 30px;
+  border: 1px solid black;
+  background: black;
+}
+.Menu:hover {
+  border: 1px solid lightgrey;
+  background: lightgrey;
+}
+
+
+.Cursor {
+ cursor: url("cursor.png"), auto;
+}

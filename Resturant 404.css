@@ -1,0 +1,39 @@
+p {
+  font-family: 'Open Sans', sans-serif;
+  color: black;
+  line-height: 0px;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+  }
+
+
+  h1 {
+    color: Black;
+    font-family: 'Lobster', serif;
+    font-stretch: expanded;
+  }
+
+#Error {
+  font-family: 'Roboto', sans-serif;
+  color: black;
+  line-height: normal;
+  font-size: 40px;
+}
+
+#Back {
+  font-family: 'Lobster', sans-serif;
+  color: White;
+  line-height: normal;
+  font-size: 30px;
+  background: Black;
+}
+#Back:hover {
+  background: Lightgrey;
+}
+
+.Cursor {
+ cursor: url("cursor.png"), auto;
+}

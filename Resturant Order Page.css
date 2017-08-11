@@ -1,0 +1,180 @@
+p {
+  font-family: 'Open Sans', sans-serif;
+  color: black;
+  line-height: 0px;
+  display: inline;
+  overflow: visible;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+  }
+
+
+
+
+  h1 {
+    color: Black;
+    font-family: 'Lobster', serif;
+    font-stretch: expanded;
+  }
+
+#Row-α {
+  border: 2px solid black;
+  color: White;
+  font-family: 'Open Sans', sans-serif;
+  background: Black;
+  font-size: 25px
+}
+
+.TableHeadBuy {
+  border: 2px solid black;
+  color: Black;
+  font-family: 'Open Sans', sans-serif;
+  background: Black;
+  font-size: 25px
+}
+
+#Row-β {
+/*  border: 2px solid black; */
+  color: Black;
+  font-family: 'Roboto', sans-serif;
+  font-size: 22px
+}
+
+#Row-γ {
+/*  border: 2px solid black; */
+  color: Black;
+  font-family: 'Roboto', sans-serif;
+  font-size: 22px
+}
+
+#Row-δ {
+/*  border: 2px solid black; */
+  color: Black;
+  font-family: 'Roboto', sans-serif;
+  font-size: 22px
+}
+
+#Row-ε {
+/*  border: 2px solid black; */
+  color: Black;
+  font-family: 'Roboto', sans-serif;
+  font-size: 22px
+}
+
+#Row-ζ {
+/*  border: 2px solid black; */
+  color: Black;
+  font-family: 'Roboto', sans-serif;
+  font-size: 22px
+}
+
+#Row-η {
+/*  border: 2px solid black; */
+  color: Black;
+  font-family: 'Roboto', sans-serif;
+  font-size: 22px
+}
+
+#Row-θ {
+/*  border: 2px solid black; */
+  color: Black;
+  font-family: 'Roboto', sans-serif;
+  font-size: 22px
+}
+
+#Row-ι {
+/*  border: 2px solid black; */
+  color: Black;
+  font-family: 'Roboto', sans-serif;
+  font-size: 22px
+}
+
+#Row-κ {
+/*  border: 2px solid black; */
+  color: Black;
+  font-family: 'Roboto', sans-serif;
+  font-size: 22px
+}
+
+#Row-λ {
+/*  border: 2px solid black; */
+  color: Black;
+  font-family: 'Roboto', sans-serif;
+  font-size: 22px
+}
+
+#Row-μ {
+/*  border: 2px solid black; */
+  color: Black;
+  font-family: 'Roboto', sans-serif;
+  font-size: 22px
+}
+
+.TableV {
+  /*  border: 2px solid black; */
+  color: Black;
+  font-family: 'Roboto', sans-serif;
+  font-size: 22px;
+  text-align: center;
+}
+
+.TableS {
+  /*  border: 2px solid black; */
+  color: Black;
+  font-family: 'Roboto', sans-serif;
+  font-size: 25px;
+  text-align: center;
+}
+
+#Row-Α {
+  border: 2px solid White;
+  color: White;
+  font-family: sans-serif;
+  background: White;
+  font-size: 25px
+}
+
+#Note {
+  font-family: 'Roboto', sans-serif;
+  color: black;
+  line-height: 10px;
+  font-size: 18px;
+}
+
+#Row-Β {
+  color: White;
+  font-family: sans-serif;
+  font-size: 33px;
+  background: Black;
+  margin: 5px;
+  text-align: center;
+}
+
+
+#Spacing-α {
+  color: White;
+}
+
+.Link-α {
+  color: white;
+  font-family: 'Lobster', sans-serif;
+  font-weight: lighter;
+}
+.LinkData {
+
+}
+.LinkData:hover {
+  background: lightgrey;
+}
+
+.LinkSelect {
+  background: Lightgrey;
+}
+
+
+.Cursor {
+ cursor: url("cursor.png"), auto;
+}

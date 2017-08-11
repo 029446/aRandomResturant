@@ -1,0 +1,219 @@
+p {
+  font-family: 'Open Sans', sans-serif;
+  color: black;
+  line-height: 0px;
+}
+#Div-α {
+  background-image: url("http://s.eatthis-cdn.com/media/images/ext/842849976/greasy-fast-food.jpg");
+  background-size: cover;
+ }
+
+a {
+  text-decoration: none;
+  color: Black;
+}
+
+
+
+h1 {
+  color: Black;
+  font-family: 'Lobster', serif;
+  font-stretch: expanded;
+}
+.Ornament-α {
+  font-family: 'Lobster', sans-serif;
+  color: black;
+  line-height: 0px;
+  font-size: 300px;
+}
+
+.Ornament-β {
+  font-family: 'Lobster', sans-serif;
+  color: black;
+  line-height: 0px;
+  font-size: 150px;
+  text-align: right;
+}
+
+.Ornament-γ {
+  font-family: 'Lobster', sans-serif;
+  color: black;
+  line-height: 0px;
+  font-size: 150px;
+  text-align: right;
+  text-decoration: underline;
+}
+
+#O-γText:hover {
+  color: lightgrey;
+}
+
+#MenuLink {
+  font-family: 'Lobster', sans-serif;
+  color: white;
+  line-height: 50px;
+  font-size: 50px;
+  Background: Black;
+  font-weight: bold;
+}
+#MenuLink:hover {
+  background: lightgrey;
+}
+
+
+#LinkMargin-α {
+height: 25px;
+background: White;
+}
+
+#LinkMargin-β {
+height: 100px;
+background: White;
+}
+
+#Div-β {
+  background-image: url("http://givefoodgetfood.ca/wp-content/uploads/2015/04/Good-Food-Guide-editor-calls-for-more-veggie-options-on-pub-menus.jpg");
+  background-size: cover;
+}
+
+#Quote {
+  font-family: 'Open Sans', sans-serif;
+  color: black;
+  line-height: normal;
+  font-size: 23px;
+  display: inline;
+  overflow: visible;
+}
+
+#Div-γ {
+  margin-bottom: 30px;
+  border: 1px solid white;
+  margin-left: 25px;
+  margin-right: 25px;
+}
+
+#Div-δ {
+  margin-left: 50px;
+  margin-right: 50px;
+}
+
+#Div-ε {
+  font-family: sans-serif;
+  font-size: 30px;
+  display: block;
+  line-height: 10px;
+  margin-top: 100px;
+}
+
+.Div-ζ {
+  margin-top: 30px;
+  border: 1px solid black;
+  background: black;
+}
+.Div-ζ:hover {
+  border: 1px solid lightgrey;
+  background: lightgrey;
+}
+
+.Button {
+  color: white;
+  font-family: 'Lobster', sans-serif;
+  font-weight: lighter;
+}
+
+.Menu {
+  margin-top: 30px;
+  border: 1px solid black;
+  background: black;
+}
+.Menu:hover {
+  border: 1px solid lightgrey;
+  background: lightgrey;
+}
+
+#Text {
+  font-family: 'Roboto', sans-serif;
+  text-align: center;
+  line-height: normal;
+  color: black;
+  display: inline;
+  overflow: visible;
+  font-size: 18px;
+}
+
+/* Style inputs with type="text", select elements and textareas */
+input[type=text], select, textarea {
+    width: 100%; /* Full width */
+    padding: 12px; /* Some padding */
+    border: 1px solid #ccc; /* Gray border */
+    border-radius: 4px; /* Rounded borders */
+    box-sizing: border-box; /* Make sure that padding and width stays in place */
+    margin-top: 6px; /* Add a top margin */
+    margin-bottom: 16px; /* Bottom margin */
+    resize: vertical /* Allow the user to vertically resize the textarea (not horizontally) */
+}
+
+/* Style the submit button with a specific background color etc */
+input[type=submit] {
+    background-color: #green;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+/* When moving the mouse over the submit button, add a darker green color */
+input[type=submit]:hover {
+    background-color: #green;
+}
+
+/* Add a background color and some padding around the form */
+.container {
+    border-radius: 5px;
+    background-color: #f2f2f2;
+    padding: 20px;
+}
+
+form {
+  font-family:'Roboto', sans-serif;
+}
+
+.EventDiv {
+  border: 1px solid lightgrey;
+  background: lightgrey;
+  margin-bottom: 10px;
+}
+
+
+.EventDate {
+  color: white;
+  text-align: center;
+  font-family: 'Lobster', serif;
+}
+.EventName  {
+  font-size: 30px;
+  text-align: left;
+  color: black;
+  font-family: 'Open Sans', sans-serif;
+  font-style: italic;
+}
+.EventText {
+  font-size: 18px;
+  text-align: left;
+  color: black;
+  display: inline;
+  overflow: visible;
+  font-family: 'Roboto', sans-serif;
+}
+
+.Event {
+  margin: auto;
+  margin-top: 50px;
+  border: 1px solid white;
+}
+
+.Cursor {
+cursor:default;
+ cursor: url("cursor.png"), auto;
+}
